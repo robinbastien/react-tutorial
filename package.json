@@ -1,0 +1,19 @@
+{
+  "name": "react-tutorial",
+  "version": "0.0.0",
+  "description": "My flirtations with React.",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/robinbastien/react-tutorial.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Robin Bastien <info@robinbastien.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robinbastien/react-tutorial/issues"
+  },
+  "homepage": "https://github.com/robinbastien/react-tutorial/"
+}
